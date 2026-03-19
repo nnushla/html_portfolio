@@ -327,7 +327,7 @@ document.addEventListener('DOMContentLoaded', function () {
       impact: 'Demonstrated strong grasp of neural network fundamentals by implementing algorithms from scratch. Project served as foundation for understanding more complex deep learning architectures and optimization techniques.',
       learnings: 'Gained deep technical understanding of backpropagation, gradient descent, and activation functions. Learned importance of proper initialization, regularization techniques, and the mathematical foundations underlying modern deep learning frameworks.',
       tags: ['Neural Networks', 'Python', 'Deep Learning', 'NumPy', 'Matplotlib', 'Jupyter Notebook'],
-      imageUrl: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80',
+      imageUrl: '/assets/mnist.png',
       gradient: 'linear-gradient(135deg,#EDE9FE,#C7D2FE)',
       liveUrl: 'https://github.com/nnushla/CNN_MNIST'
     },
@@ -335,7 +335,7 @@ document.addEventListener('DOMContentLoaded', function () {
       title: 'Period Productivity Prediction Model',
       category: 'AI & Data',
       role: 'ML Researcher & Developer',
-      timeframe: 'Fall 2025',
+      timeframe: 'Spring 2026',
       tools: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Jupyter Notebook'],
       context: 'Built a machine learning model to help individuals understand productivity patterns across menstrual cycles, addressing the gap in personalized productivity insights while maintaining strict ethical data standards.',
       approach: 'Developed comprehensive feature engineering pipeline, implemented multiple ML algorithms (Random Forest, Gradient Boosting, Neural Networks), and conducted rigorous model evaluation with cross-validation. Prioritized model interpretability and bias detection throughout development.',
@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', function () {
       impact: 'Demonstrated potential to improve individual productivity planning by 30% through data-driven insights. Research contributed to broader discussions on ethical AI in health tech.',
       learnings: 'Gained deep expertise in ethical ML development, learned to balance model performance with fairness considerations, and developed frameworks for responsible data handling in sensitive domains.',
       tags: ['Machine Learning', 'Python', 'Data Ethics', 'Scikit-learn', 'Pandas', 'PCA'],
-      imageUrl: 'https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=800&q=80',
+      imageUrl: '/assets/flow.jpg',
       gradient: 'linear-gradient(135deg,#E0F2FE,#BAE6FD)',
       liveUrl: 'https://github.com/nnushla/FlowCast'
     },
@@ -353,13 +353,13 @@ document.addEventListener('DOMContentLoaded', function () {
       role: 'AI Researcher',
       timeframe: 'Summer 2024',
       tools: ['Python', 'TensorFlow', 'OpenCV', 'VR Development Tools'],
-      context: 'As part of my research at Computing Research Association, I researched and developed methods to improve a sign language recognition system for a VR-based learning platform called ASL Champ, focusing on accessibility for deaf and hard-of-hearing learners.',
+      context: 'As part of my research at Computing Research Association, I researched and developed methods to improve a sign language recognition system for a VR-based learning platform called ASL Champ, focusing on accessibility for Deaf and Hard-of-Hearing learners.',
       approach: 'Conducted literature review on existing sign language recognition models, identified key limitations in accuracy and cultural inclusivity, then designed experiments to improve model robustness across different signing styles and lighting conditions.',
       solution: 'Enhanced neural network architecture achieving 92% recognition accuracy across diverse signing patterns. Implemented real-time feedback mechanisms in VR environment and created culturally inclusive training dataset.',
       impact: 'Contributed to making VR learning more accessible. Research findings presented at university symposium and integrated into ongoing accessibility initiatives.',
-      learnings: 'Developed expertise in computer vision and neural networks while understanding the critical importance of inclusive design in AI systems. Learned to collaborate with accessibility advocates to ensure technology serves diverse needs.',
+      learnings: 'Developed expertise in computer vision and deep learning while understanding the critical importance of inclusive design in AI systems. Learned to collaborate with accessibility advocates to ensure technology serves diverse needs.',
       tags: ['Computer Vision', 'Accessibility', 'Neural Networks', 'Research', 'TensorFlow', 'OpenCV'],
-      imageUrl: 'https://images.unsplash.com/photo-1611923973164-e0e5f7f69872?w=800&q=80',
+      imageUrl: '/assets/aslchamp.png',
       gradient: 'linear-gradient(135deg,#D1FAE5,#A7F3D0)',
       liveUrl: 'https://nnushla.github.io/'
     },
@@ -367,7 +367,7 @@ document.addEventListener('DOMContentLoaded', function () {
       title: 'DeFeasts Restaurant Web App',
       category: 'Product & UX',
       role: 'Product Manager',
-      timeframe: 'Spring 2025',
+      timeframe: 'Spring 2024',
       tools: ['Vue.js', 'Node.js', 'PostgreSQL', 'Figma', 'Git'],
       context: 'Led product strategy for DeFeasts, a comprehensive restaurant web application built during DePauw\'s annual hackathon. Coordinated cross-functional team of 4 developers and designers to create an end-to-end dining experience.',
       approach: 'Conducted rapid user research with campus dining community, defined MVP features through prioritization matrix, created user flows and wireframes in Figma, and managed development sprint with daily standups and iterative releases.',
@@ -375,7 +375,7 @@ document.addEventListener('DOMContentLoaded', function () {
       impact: 'Won Overall Winner and Best UI/UX awards at hackathon. App prototype demonstrated to university administration for potential campus-wide implementation. Achieved 95% user satisfaction in post-demo surveys.',
       learnings: 'Mastered rapid prototyping and MVP development under time constraints. Learned to balance technical feasibility with user needs and how to rally a team around shared vision.',
       tags: ['Product Management', 'UI/UX', 'Vue.js', 'Full-Stack', 'Figma', 'WCAG'],
-      imageUrl: 'https://images.unsplash.com/photo-1760888549280-4aef010720bd?w=800&q=80',
+      imageUrl: '/assets/defeasts.png',
       gradient: 'linear-gradient(135deg,#FCE7F3,#FDE8D8)',
       award: 'Overall Winner & Best UI/UX — DePauw Hackathon',
       liveUrl: 'https://defeasts.netlify.app/'
@@ -384,15 +384,15 @@ document.addEventListener('DOMContentLoaded', function () {
       title: 'NetWorks Mentorship Platform',
       category: 'Product & UX',
       role: 'Product Owner',
-      timeframe: '2024–2025',
+      timeframe: 'Spring 2026',
       tools: ['Jira', 'Figma', 'Miro', 'Notion', 'Analytics Tools'],
       context: 'Served as Product Owner for NetWorks, a platform designed to facilitate meaningful mentorship connections between university students and alumni professionals. Managed stakeholder expectations and product roadmap for a 6-month development cycle.',
-      approach: 'Led discovery phase with 100+ user interviews, synthesized insights into personas and journey maps, created product roadmap aligned with business goals, and facilitated bi-weekly sprint planning and retrospectives with a dev team of 5.',
+      approach: 'Led discovery phase with 100+ user interviews, synthesized insights into personas and journey maps, created product roadmap aligned with business goals, and facilitated bi-weekly sprint planning and retrospectives with a dev team of 3.',
       solution: 'Launched beta platform with smart matching algorithm based on career interests, industry, and availability. Features include mentor profiles, booking system, goal tracking, and resource library. Designed onboarding flow that improved activation rate by 60%.',
-      impact: 'Won 2nd Place and a $1,500 investment at the McDermond Center Startup Pitch Competition. Successfully onboarded 50+ users in beta phase with 75% active engagement rate. Platform facilitated 500+ mentorship sessions in first semester. Secured university funding for continued development.',
+      impact: 'Won 2nd Place and a $1,500 investment at the McDermond Center Startup Pitch Competition.  Secured university funding for continued development.',
       learnings: 'Developed skills in stakeholder communication, agile product management, and data-informed decision making. Learned to navigate ambiguity and pivot based on user feedback.',
-      tags: ['Product Strategy', 'User Research', 'Agile', 'Stakeholder Management', 'Jira', 'Figma'],
-      // imageUrl: 'https://images.unsplash.com/photo-1764173039056-3cc602fef942?w=800&q=80',
+      tags: ['Product Development', 'User Research', 'Agile', 'Stakeholder Management', 'Jira', 'Figma'],
+      imageUrl: '/assets/networks.jpg',
       gradient: 'linear-gradient(135deg,#FEF3C7,#FCE7F3)',
       award: '2nd Place · McDermond Startup Pitch · $1,500 Investment',
       liveUrl: 'https://minus-forest-19866863.figma.site/'
@@ -452,7 +452,7 @@ document.addEventListener('DOMContentLoaded', function () {
       liveBtn.target = '_blank';
       liveBtn.rel = 'noopener';
       liveBtn.className = 'modal-live-btn';
-      liveBtn.innerHTML = 'View live site <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
+      liveBtn.innerHTML = 'View project <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>';
       document.getElementById('modal-tags').after(liveBtn);
     }
 
