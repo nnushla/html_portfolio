@@ -331,22 +331,22 @@ document.addEventListener('DOMContentLoaded', function () {
       gradient: 'linear-gradient(135deg,#EDE9FE,#C7D2FE)',
       liveUrl: 'https://github.com/nnushla/CNN_MNIST'
     },
-    'period-productivity': {
-      title: 'Period Productivity Prediction Model',
-      category: 'AI & Data',
-      role: 'ML Researcher & Developer',
-      timeframe: 'Spring 2026',
-      tools: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Jupyter Notebook'],
-      context: 'Built a machine learning model to help individuals understand productivity patterns across menstrual cycles, addressing the gap in personalized productivity insights while maintaining strict ethical data standards.',
-      approach: 'Developed comprehensive feature engineering pipeline, implemented multiple ML algorithms (Random Forest, Gradient Boosting, Neural Networks), and conducted rigorous model evaluation with cross-validation. Prioritized model interpretability and bias detection throughout development.',
-      solution: 'Created an end-to-end ML pipeline with 85% prediction accuracy, featuring automated data preprocessing, feature selection using PCA, and ensemble modeling. Implemented fairness metrics to ensure equitable predictions across demographic groups.',
-      impact: 'Demonstrated potential to improve individual productivity planning by 30% through data-driven insights. Research contributed to broader discussions on ethical AI in health tech.',
-      learnings: 'Gained deep expertise in ethical ML development, learned to balance model performance with fairness considerations, and developed frameworks for responsible data handling in sensitive domains.',
-      tags: ['Machine Learning', 'Python', 'Data Ethics', 'Scikit-learn', 'Pandas', 'PCA'],
-      imageUrl: '/assets/flow.jpg',
-      gradient: 'linear-gradient(135deg,#E0F2FE,#BAE6FD)',
-      liveUrl: 'https://github.com/nnushla/FlowCast'
-    },
+   'period-productivity': {
+  title: 'FlowCast',
+  category: 'AI & Data',
+  role: 'ML Developer & Product Builder',
+  timeframe: 'Spring 2026',
+  tools: ['Python', 'Scikit-learn', 'FastAPI', 'Streamlit', 'Pandas', 'Kaggle'],
+  context: 'Built FlowCast, a full-stack ML application that predicts productivity patterns across menstrual cycle phases. Motivated by the lack of personalized, data-driven tools in menstrual health tech, the project combines ethical data sourcing with a deployed, accessible web experience.',
+  approach: 'Sourced and preprocessed menstrual health datasets from Kaggle, engineered cycle-phase features, and trained multiple ML models (Random Forest, Gradient Boosting) with cross-validation. Deployed the model to Streamlit and built a FastAPI backend to serve predictions to a React frontend.',
+  solution: 'Delivered an end-to-end ML web app — from data pipeline to live UI — achieving 93% prediction accuracy. Users can input cycle data and receive personalized productivity insights in real time via the deployed Streamlit model connected through a FastAPI layer.',
+  impact: 'Demonstrated the full product lifecycle from raw data to deployed application. FlowCast bridges the gap between health data and actionable productivity insights, with potential to improve personal planning for millions of menstruating individuals.',
+  learnings: 'Gained hands-on experience deploying ML models to production and connecting data science work to a real user interface. Deepened understanding of ethical data use in health tech and the engineering challenges of bridging ML backends with frontend applications.',
+  tags: ['Machine Learning', 'FastAPI', 'Streamlit', 'Python', 'Scikit-learn', 'Kaggle'],
+  imageUrl: '/assets/flow.jpg',
+  gradient: 'linear-gradient(135deg,#E0F2FE,#BAE6FD)',
+  liveUrl: 'https://flowcastweb.netlify.app/'
+},
     'sign-language-vr': {
       title: 'Sign Language Recognition for VR Learning',
       category: 'AI & Data',
